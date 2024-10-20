@@ -44,9 +44,3 @@ Antes de começar, certifique-se de que você tem o seguinte instalado em sua m�
 5. **Execute os testes:**
 
    - Na interface do Cypress, você verá uma lista de testes disponíveis. Clique no teste que deseja executar para iniciar a execução.
-
-
-## Informações sobre a API
-
-### Atualizar Imagem do Produto (API)
-### Busca de Produto (API)
